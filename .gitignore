@@ -1,0 +1,13 @@
+
+zmq_log_client/err
+zmq_log_client/easylogging++.cpp
+zmq_log_client/easylogging++.d
+zmq_log_client/easylogging++.h
+*.o
+zmq_log_client/glog/include/glog/log_severity.h
+zmq_log_client/glog/include/glog/logging.h
+zmq_log_client/glog/include/glog/raw_logging.h
+zmq_log_client/glog/include/glog/stl_logging.h
+zmq_log_client/glog/include/glog/vlog_is_on.h
+zmq_log_client/glog/lib/libglog.a
+zmq_log_client/glog/lib/libglog.la
